@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hey let's drink some :coffe:
 Use the left arrow to go back!
